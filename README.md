@@ -17,6 +17,6 @@ In case If I run a regular data points instead of spatial data, I also being abl
 
 # Run the Tool
 First lets pretend we want to clean the address of Restaurants data set in Jakarta
-https://github.com/Trisna2828/Data_Cleaning_AddressName/blob/main/src/Restaurant_PSQL.JPG
+![](https://github.com/Trisna2828/Data_Cleaning_AddressName/blob/main/src/Restaurant_PSQL.JPG)
 Run the tool in ArcGIS
 
