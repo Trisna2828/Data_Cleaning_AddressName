@@ -11,5 +11,6 @@ This is the fun part, we need to have a good problem solving thingking, how to m
 ![](https://github.com/Trisna2828/Data_Cleaning_AddressName/blob/main/src/Address_3.JPG)
 # Blend All Together Into A Tool
 Since I working with spatial data, with a static structure, I put all the functions into a model builder. Model Builder is a tool we can create on ArcGIS Desktop software for spatial data, to create a collection of functions, to finish certain tasks, we can call it a processing model.
-With this model, I can run all of cleaning process again and again, for every data stored from the data operation team, daily.
+With this model, I can run all of cleaning process again and again, for every data stored from the data operation team, daily. I can simply put the python functions into each of step in the model builder. 
+In case If I run a regular data points instead of spatial data, I also being able to run the process on a Jupyter Notebook using Pandas.
 ![](https://github.com/Trisna2828/Data_Cleaning_AddressName/blob/main/src/Address_Model.JPG)
