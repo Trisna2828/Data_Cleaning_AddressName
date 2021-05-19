@@ -7,6 +7,7 @@ I do some cleaning process, small steps, to Clean the wrong word, double space, 
 ![](https://github.com/Trisna2828/Data_Cleaning_AddressName/blob/main/src/Address_1.JPG)
 # Start to Clean the Address Structure
 This is the fun part, we need to have a good problem solving thingking, how to manage the problem into a cleaning process, what the main problem, and whats the sub problem, so we can filter our data, into a different conditions, then at the end, each of the condition has it's own solution. So, It just like a root cause analysis on Machine Learning (in a simple form)
+
 ![](https://github.com/Trisna2828/Data_Cleaning_AddressName/blob/main/src/Address_2.JPG)
 ![](https://github.com/Trisna2828/Data_Cleaning_AddressName/blob/main/src/Address_3.JPG)
 # Blend All Together Into A Tool
@@ -18,5 +19,15 @@ In case If I run a regular data points instead of spatial data, I also being abl
 # Run the Tool
 First lets pretend we want to clean the address of Restaurants data set in Jakarta
 ![](https://github.com/Trisna2828/Data_Cleaning_AddressName/blob/main/src/Restaurant_PSQL.JPG)
-Run the tool in ArcGIS
+
+Run the tool in ArcGIS, Below we can see the Actaddress attribute before cleaning
+
+![](https://github.com/Trisna2828/Data_Cleaning_AddressName/blob/main/src/ArcGIS_1.JPG)
+![](https://github.com/Trisna2828/Data_Cleaning_AddressName/blob/main/src/ArcGIS_2.JPG)
+
+The data after Cleaning
+
+![](https://github.com/Trisna2828/Data_Cleaning_AddressName/blob/main/src/ArcGIS_3.JPG)
+![](https://github.com/Trisna2828/Data_Cleaning_AddressName/blob/main/src/ArcGIS_4.JPG)
+
 
