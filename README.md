@@ -12,4 +12,4 @@ This is the fun part, we need to have a good problem solving thingking, how to m
 # Blend All Together Into A Tool
 Since I working with spatial data, with a static structure, I put all the functions into a model builder. Model Builder is a tool we can create on ArcGIS Desktop software for spatial data, to create a collection of functions, to finish certain tasks, we can call it a processing model.
 With this model, I can run all of cleaning process again and again, for every data stored from the data operation team, daily.
-![](https://github.com/Trisna2828/Data_Cleaning_AddressName/blob/main/src/Model.JPG)
+![](https://github.com/Trisna2828/Data_Cleaning_AddressName/blob/main/src/Address_Model.JPG)
