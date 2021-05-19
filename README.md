@@ -14,3 +14,9 @@ Since I working with spatial data, with a static structure, I put all the functi
 With this model, I can run all of cleaning process again and again, for every data stored from the data operation team, daily. I can simply put the python functions into each of step in the model builder. 
 In case If I run a regular data points instead of spatial data, I also being able to run the process on a Jupyter Notebook using Pandas.
 ![](https://github.com/Trisna2828/Data_Cleaning_AddressName/blob/main/src/Address_Model.JPG)
+
+# Run the Tool
+First lets pretend we want to clean the address of Restaurants data set in Jakarta
+https://github.com/Trisna2828/Data_Cleaning_AddressName/blob/main/src/Restaurant_PSQL.JPG
+Run the tool in ArcGIS
+
